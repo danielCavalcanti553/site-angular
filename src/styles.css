@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    color: blue;
+}
+
+#conteudo{
+    min-height: 500px;
+}
+
+#footer{
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+}
+
+body{
+    margin: 0px;
+}
